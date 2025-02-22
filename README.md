@@ -20,7 +20,7 @@ Pipex is a command-line utility that simulates the behavior of the Unix `pipe` c
 
 1. Clone the repository:
    ```bash
-   git clone [<repository-url>](https://github.com/VZypher/ft_pipex)
+   git clone https://github.com/VZypher/ft_pipex
    cd ft_pipex
    ```
    
