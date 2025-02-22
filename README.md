@@ -23,13 +23,8 @@ Pipex is a command-line utility that simulates the behavior of the Unix `pipe` c
    git clone <repository-url>
    cd <repository-directory>
    ```
-
-2. Build the `libft` library:
-   ```bash
-   make -C libft
-   ```
-
-3. Build the Pipex executable:
+   
+2. Build the Pipex executable:
    ```bash
    make
    ```
